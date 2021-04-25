@@ -14,7 +14,7 @@
 
 - index.js - main node.js file for lambda function to query Etherem wallet balance and publish commands to MQTT topic 'RoboCar/Command' to give robot commands
 
-node_modules.zip - required files for methods invoked in lambda function not natively supported in AWS
+- node_modules.zip - required files for methods invoked in lambda function not natively supported in AWS
 
 ## Background
 
