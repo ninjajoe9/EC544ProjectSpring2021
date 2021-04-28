@@ -10,7 +10,7 @@ EC54_Locke_Wang_Final_Project_Report_20210426.pdf - Final Report of our Decentra
 
 - RoboCar EC544 3Min.mp4 -  [YouTube](https://youtu.be/axgf6HmUZ0g) - 3 minute short version of video for class.
 
-- RoboCar EC544 8min - Large 540p.mov - [YouTube](https://youtu.be/axgf6HmUZ0g) - More detailed version of Project present for interested viewers.
+- RoboCar EC544 8min - Large 540p.mov - [YouTube](https://youtu.be/axgf6HmUZ0g) - More detailed version of Project present for interested viewers. **(warning Large file over 50M)**
 
 **Robot Car**
 
