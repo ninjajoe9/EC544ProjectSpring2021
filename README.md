@@ -4,7 +4,7 @@
 
 **Report**
 
-EC54_Locke_Wang_Final_Project_Report_20210426.pdf
+EC54_Locke_Wang_Final_Project_Report_20210426.pdf - Final Report of our Decentralized Robot Car Project
 
 **Presentation Videos**
 
