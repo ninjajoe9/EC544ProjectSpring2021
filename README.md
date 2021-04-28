@@ -26,4 +26,4 @@ EC54_Locke_Wang_Final_Project_Report_20210426.pdf - Final report of our decentra
 
 **Smart Contract**
 
-- Project_init.sol - Solidity contact file to negotiate Ethereum test wallets and set commands for robot.
+- Project_init.sol - Solidity contract file to negotiate Ethereum test wallets and set commands for robot.
